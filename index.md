@@ -18,6 +18,6 @@ features:
   - title: Photography
     details: Showcasing my collection of photographs
   - title: Graphic Design
-    details: Showcasing my collection of my work in graphic design
+    details: Welcome to the Graphic Design section of my portfolio. Here, you will find various projects showcasing my skills in graphic design.
 ---
 
