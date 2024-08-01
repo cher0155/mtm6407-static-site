@@ -8,18 +8,16 @@ hero:
   tagline: Briging visions to life
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Photography
+      link: /photography
+    - theme: brand
+      text: Graphic Design
+      link: /graphicdesign
 
 features:
-  - title: Feature A
+  - title: Photography
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: Graphic Design
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
