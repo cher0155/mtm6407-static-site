@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/deploying-jeff-portfolio/',
   title: "Jeff Portfolio",
   description: "A website that displays my work in photography and graphic design",
   themeConfig: {
