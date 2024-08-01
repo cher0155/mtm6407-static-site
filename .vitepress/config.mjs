@@ -8,9 +8,9 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Photography', link: '/photography' }
-      { text: 'Graphic Design', link: '/graphicdesign' }
-      { text: 'About Me', link: '/about' }
+      { text: 'Photography', link: '/photography' },
+      { text: 'Graphic Design', link: '/graphicdesign' },
+      { text: 'About Me', link: '/about' },
       { text: 'Contact', link: '/contact' }
     ],
 
