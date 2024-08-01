@@ -16,8 +16,8 @@ hero:
 
 features:
   - title: Photography
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Showcasing my collection of photographs
   - title: Graphic Design
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Showcasing my collection of my work in graphic design
 ---
 
